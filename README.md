@@ -1,9 +1,5 @@
 # Linear_Predictive_Analysis_for_Phones
 
-Here's a corresponding README file for the Python code:
-
-# Linear Predictive Analysis
-
 ## Introduction
 
 The Linear Predictive Analysis code provided here focuses on audio and signal processing. It includes several functions for pre-emphasis, autocorrelation, Levinson-Durbin algorithm, pole-zero plotting, LPC spectrum analysis, inverse filtering, and fundamental frequency estimation. This code can be used to analyze audio signals, extract relevant features, and estimate parameters like fundamental frequency.
